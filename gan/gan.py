@@ -1,3 +1,9 @@
+import tensorflow as tf
+import numpy as np
+import matplotlib.pyplot as plt
+from tqdm import tqdm
+import os
+
 from tensorflow.keras import layers, models
 from tensorflow.keras.optimizers import Adam
 
