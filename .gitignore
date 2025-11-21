@@ -369,3 +369,4 @@ idea
 *.h5
 
 chest_xray/
+.DS_Store
