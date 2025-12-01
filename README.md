@@ -111,7 +111,7 @@ python3.12 train_transfer_models.py --model densenet121 --dataset chest_xray
 
 ------------------------------------------------------------------------
 
-### 2️. Generate Synthetic Images Using GAN
+### 2. Generate Synthetic Images Using GAN
 
 **File:** `gan_generator.py`
 
